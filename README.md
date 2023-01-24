@@ -5,20 +5,20 @@
 
 I'm Prathamesh, an aspiring Data professional.
 
-### Tecnical Skills 
+### 👨‍💻Tecnical Skills 
 
 - SQL
 - Tableau
 - Excel
 
-### Projects
+### 💻 Projects
 
-- For my projects portfolio, click [HERE]()
+- For my projects portfolio, click [HERE](https://github.com/Pratham2406/Projects.git)
 
 
-### Connect with Me
+### ✌ Connect with Me
 
-- [LinkedIn]()
+- [LinkedIn](www.linkedin.com/in/prathameshkulkarni2406)
 
 
 
