@@ -18,6 +18,8 @@ I'm Prathamesh, an aspiring Data professional.
 
 ### ✌ Connect with Me
 
+- [LinkedIn](www.linkedin.com/in/prathameshkulkarni2406/)
+
 
 
 
