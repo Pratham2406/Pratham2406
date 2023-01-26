@@ -5,7 +5,7 @@
 
 I'm Prathamesh, an aspiring Data professional.
 
-### 👨‍💻Tecnical Skills 
+### 👨‍💻Technical Skills 
 
 - SQL
 - Tableau
